@@ -20,6 +20,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e00787d9-1c65-41f0-96cb-f7635268c80b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/HelloWorld.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../settings.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.gradle/buildOutputCleanup/cache.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/6.1.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.1.1/executionHistory/executionHistory.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/6.1.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.1.1/executionHistory/executionHistory.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/6.1.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.1.1/fileHashes/fileHashes.bin" afterDir="false" />
@@ -27,12 +37,28 @@
       <change beforePath="$PROJECT_DIR$/.gradle/6.1.1/javaCompile/classAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.1.1/javaCompile/classAnalysis.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/6.1.1/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.1.1/javaCompile/javaCompile.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/checksums/checksums.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/checksums/checksums.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/classes/Programa.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/classes/Programa.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/classes/Programa.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/classes/Programa.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/classes/usuario/ProgramaDoSuperUsuario.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/classes/usuario/ProgramaDoSuperUsuario.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/one/digitalinnovation/finals/CasualGamer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/one/digitalinnovation/finals/Gamer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/one/digitalinnovation/finals/HardcoreGamer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/one/digitalinnovation/finals/Programa.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/one/digitalinnovation/statics/Cachorro.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/one/digitalinnovation/statics/Programa.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/tipos/naoprimitivos/Unboxing.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/tipos/naoprimitivos/Unboxing.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/classes/usuario/ProgramaDoSuperUsuario.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/classes/usuario/ProgramaDoSuperUsuario.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/finals/CasualGamer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/finals/CasualGamer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/finals/Gamer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/finals/Gamer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/finals/HardcoreGamer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/finals/HardcoreGamer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/finals/Programa.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/finals/Programa.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/statics/Cachorro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/statics/Cachorro.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/statics/Programa.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/statics/Programa.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/tipos/naoprimitivos/Unboxing.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/tipos/naoprimitivos/Unboxing.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -96,7 +122,7 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.last.edited" value="Global Libraries" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.project.gradle" />
@@ -106,16 +132,10 @@
       <command value="gradle " />
     </option>
   </component>
-  <component name="RunManager" selected="Application.Programa">
-    <configuration name="DefaultValues" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="tipos.primitivos.DefaultValues" />
+  <component name="RunManager" selected="Application.HelloWorld">
+    <configuration name="HelloWorld" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HelloWorld" />
       <module name="primeiro_Projeto.main" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="tipos.primitivos.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -134,11 +154,11 @@
       </method>
     </configuration>
     <configuration name="Programa" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="classes.Programa" />
+      <option name="MAIN_CLASS_NAME" value="statics.Programa" />
       <module name="primeiro_Projeto.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="classes.*" />
+          <option name="PATTERN" value="statics.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -146,12 +166,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ProgramaPessoaFisica" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="classes.pessoa.ProgramaPessoaFisica" />
+    <configuration name="ProgramaDoSuperUsuario" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="classes.usuario.ProgramaDoSuperUsuario" />
       <module name="primeiro_Projeto.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="classes.pessoa.*" />
+          <option name="PATTERN" value="classes.usuario.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -174,11 +194,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.HelloWorld" />
+        <item itemvalue="Application.Programa" />
+        <item itemvalue="Application.ProgramaDoSuperUsuario" />
         <item itemvalue="Application.Programa (1)" />
         <item itemvalue="Application.Wrappers" />
-        <item itemvalue="Application.DefaultValues" />
-        <item itemvalue="Application.ProgramaPessoaFisica" />
-        <item itemvalue="Application.Programa" />
       </list>
     </recent_temporary>
   </component>
@@ -193,7 +213,9 @@
       <option name="presentableId" value="Default" />
       <updated>1591989571628</updated>
       <workItem from="1591989573350" duration="6880000" />
-      <workItem from="1592000278059" duration="3000" />
+      <workItem from="1592000278059" duration="3726000" />
+      <workItem from="1592004994189" duration="1876000" />
+      <workItem from="1592008343258" duration="112000" />
     </task>
     <servers />
   </component>
@@ -220,34 +242,54 @@
       <screen x="0" y="0" width="1366" height="767" />
     </state>
     <state x="166" y="0" width="1024" height="762" key="#Project_Structure/0.0.1366.767@0.0.1366.767" timestamp="1591990167501" />
-    <state x="141" y="41" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1591990341919">
+    <state x="141" y="41" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1592006097997">
       <screen x="0" y="0" width="1366" height="767" />
     </state>
-    <state x="141" y="41" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.767@0.0.1366.767" timestamp="1591990341919" />
+    <state x="141" y="41" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.767@0.0.1366.767" timestamp="1592006097997" />
     <state x="428" y="257" width="500" height="248" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1591990048319">
       <screen x="0" y="0" width="1366" height="767" />
     </state>
     <state x="428" y="257" width="500" height="248" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1366.767@0.0.1366.767" timestamp="1591990048319" />
-    <state width="1303" height="173" key="GridCell.Tab.0.bottom" timestamp="1592000118887">
+    <state x="461" y="125" width="424" height="506" key="FileChooserDialogImpl" timestamp="1592006756841">
       <screen x="0" y="0" width="1366" height="767" />
     </state>
-    <state width="1303" height="173" key="GridCell.Tab.0.bottom/0.0.1366.767@0.0.1366.767" timestamp="1592000118887" />
-    <state width="1303" height="173" key="GridCell.Tab.0.center" timestamp="1592000118887">
+    <state x="461" y="125" width="424" height="506" key="FileChooserDialogImpl/0.0.1366.767@0.0.1366.767" timestamp="1592006756841" />
+    <state width="1303" height="173" key="GridCell.Tab.0.bottom" timestamp="1592006870819">
       <screen x="0" y="0" width="1366" height="767" />
     </state>
-    <state width="1303" height="173" key="GridCell.Tab.0.center/0.0.1366.767@0.0.1366.767" timestamp="1592000118887" />
-    <state width="1303" height="173" key="GridCell.Tab.0.left" timestamp="1592000118887">
+    <state width="1303" height="173" key="GridCell.Tab.0.bottom/0.0.1366.767@0.0.1366.767" timestamp="1592006870819" />
+    <state width="1303" height="173" key="GridCell.Tab.0.center" timestamp="1592006870818">
       <screen x="0" y="0" width="1366" height="767" />
     </state>
-    <state width="1303" height="173" key="GridCell.Tab.0.left/0.0.1366.767@0.0.1366.767" timestamp="1592000118887" />
-    <state width="1303" height="173" key="GridCell.Tab.0.right" timestamp="1592000118887">
+    <state width="1303" height="173" key="GridCell.Tab.0.center/0.0.1366.767@0.0.1366.767" timestamp="1592006870818" />
+    <state width="1303" height="173" key="GridCell.Tab.0.left" timestamp="1592006870818">
       <screen x="0" y="0" width="1366" height="767" />
     </state>
-    <state width="1303" height="173" key="GridCell.Tab.0.right/0.0.1366.767@0.0.1366.767" timestamp="1592000118887" />
-    <state x="166" y="0" width="1024" height="762" key="SettingsEditor" timestamp="1591990954875">
+    <state width="1303" height="173" key="GridCell.Tab.0.left/0.0.1366.767@0.0.1366.767" timestamp="1592006870818" />
+    <state width="1303" height="173" key="GridCell.Tab.0.right" timestamp="1592006870818">
       <screen x="0" y="0" width="1366" height="767" />
     </state>
-    <state x="166" y="0" width="1024" height="762" key="SettingsEditor/0.0.1366.767@0.0.1366.767" timestamp="1591990954875" />
+    <state width="1303" height="173" key="GridCell.Tab.0.right/0.0.1366.767@0.0.1366.767" timestamp="1592006870818" />
+    <state width="1303" height="216" key="GridCell.Tab.1.bottom" timestamp="1592006131219">
+      <screen x="0" y="0" width="1366" height="767" />
+    </state>
+    <state width="1303" height="216" key="GridCell.Tab.1.bottom/0.0.1366.767@0.0.1366.767" timestamp="1592006131219" />
+    <state width="1303" height="216" key="GridCell.Tab.1.center" timestamp="1592006131218">
+      <screen x="0" y="0" width="1366" height="767" />
+    </state>
+    <state width="1303" height="216" key="GridCell.Tab.1.center/0.0.1366.767@0.0.1366.767" timestamp="1592006131218" />
+    <state width="1303" height="216" key="GridCell.Tab.1.left" timestamp="1592006131218">
+      <screen x="0" y="0" width="1366" height="767" />
+    </state>
+    <state width="1303" height="216" key="GridCell.Tab.1.left/0.0.1366.767@0.0.1366.767" timestamp="1592006131218" />
+    <state width="1303" height="216" key="GridCell.Tab.1.right" timestamp="1592006131219">
+      <screen x="0" y="0" width="1366" height="767" />
+    </state>
+    <state width="1303" height="216" key="GridCell.Tab.1.right/0.0.1366.767@0.0.1366.767" timestamp="1592006131219" />
+    <state x="166" y="0" width="1024" height="762" key="SettingsEditor" timestamp="1592006792101">
+      <screen x="0" y="0" width="1366" height="767" />
+    </state>
+    <state x="166" y="0" width="1024" height="762" key="SettingsEditor/0.0.1366.767@0.0.1366.767" timestamp="1592006792101" />
     <state x="347" y="170" width="672" height="677" key="run.anything.popup" timestamp="1591990289799">
       <screen x="0" y="0" width="1366" height="767" />
     </state>

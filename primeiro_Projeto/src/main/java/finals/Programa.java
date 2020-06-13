@@ -1,4 +1,4 @@
-package one.digitalinnovation.finals;
+package finals;
 
 public class Programa {
 
