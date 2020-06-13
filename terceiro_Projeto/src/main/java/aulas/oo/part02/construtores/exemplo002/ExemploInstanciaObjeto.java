@@ -4,7 +4,7 @@ public class ExemploInstanciaObjeto {
 
     public static void main(String[] args) {
 
-        Pessoa pessoa = new Pessoa();
+        Pessoa pessoa = new Pessoa("Rafael Witt");
 
         System.out.println(pessoa.getNome());
 

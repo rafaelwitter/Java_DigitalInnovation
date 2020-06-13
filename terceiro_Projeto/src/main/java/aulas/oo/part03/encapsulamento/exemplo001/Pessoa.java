@@ -6,10 +6,14 @@ import java.time.Period;
 public class Pessoa {
 
     private String nome;
+    private String sobrenome;
+    private String nomeCompleto;
     private LocalDate dataNascimento;
 
-    public Pessoa(String nome, int dia, int mes, int ano) {
+    public Pessoa(String nome,String sobrenome, int dia, int mes, int ano) {
         this.nome = nome;
+        this.sobrenome = sobrenome;
+        this.nomeCompleto = nome + sobrenome;
         this.dataNascimento = LocalDate.of(ano, mes, dia);
     }
 
@@ -20,6 +24,8 @@ public class Pessoa {
     public String getNome() {
         return nome;
     }
+
+    public String getNomeCompleto(){ return nomeCompleto; }
 
     public LocalDate getDataNascimento() {
         return dataNascimento;

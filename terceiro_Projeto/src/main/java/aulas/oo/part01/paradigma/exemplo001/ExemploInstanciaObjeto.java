@@ -7,7 +7,7 @@ public class ExemploInstanciaObjeto {
         Pessoa pessoa = new Pessoa();
 
         System.out.println(pessoa.getNome());
-        // Marco
+        // Rafael
 
     }
 
