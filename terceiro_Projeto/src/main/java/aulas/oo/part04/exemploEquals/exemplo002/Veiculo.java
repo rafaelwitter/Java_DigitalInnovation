@@ -50,7 +50,6 @@ public abstract class Veiculo {
         if (obj == null) {
             return false;
         }
-
         Veiculo comparavel;
         if (obj instanceof Veiculo) {
             comparavel = (Veiculo)obj;
