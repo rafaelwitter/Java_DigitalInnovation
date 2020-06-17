@@ -17,20 +17,26 @@ public class ExemploComparator {
         System.out.println("---------Ordem de inserçao---------");
         System.out.println(estudantes);
 
-        estudantes.sort((first,second) -> first.getIdade() - second.getIdade());
         System.out.println("----------Ordem naturais dos numeros ----- Idade");
+        estudantes.sort((first,second) -> first.getIdade() - second.getIdade());
         System.out.println(estudantes);
 
-        estudantes.sort((first, second)->second.getIdade()-first.getIdade());
         System.out.println("----------Ordem reversa dos numeros ------- Idade");
+        estudantes.sort((first, second)->second.getIdade()-first.getIdade());
         System.out.println(estudantes);
 
-        estudantes.sort(Comparator.comparingInt(Estudante::getIdade));
         System.out.println("----------Ordem natural dos numeros ------- idade (implementacao referencia)");
+        estudantes.sort(Comparator.comparingInt(Estudante::getIdade));
         System.out.println(estudantes);
 
-        estudantes.sort(Comparator.comparingInt(Estudante::getIdade).reversed());
         System.out.println("----------Ordem reversa dos numeros ------- idade (implementacao referencia)");
+        estudantes.sort(Comparator.comparingInt(Estudante::getIdade).reversed());
         System.out.println(estudantes);
+
+        //Se implementar Comparable<> na classe desejada não é necessário as funçoes acima
+        System.out.println("-----------Ordem natural criada pela classe Estudante----------------");
+        Collections.sort(estudantes);
+        System.out.println(estudantes);
+
     }
 }
