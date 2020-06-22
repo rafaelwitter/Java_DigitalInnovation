@@ -1,6 +1,4 @@
-package com.globallabs.springwebmvc.model;
-
-import com.sun.istack.NotNull;
+package br.com.globallabs.springwebmvc.model;
 
 import javax.persistence.Column;
 import javax.persistence.Entity;
@@ -18,11 +16,9 @@ public class Jedi {
     @GeneratedValue(strategy = GenerationType.AUTO)
     private Long id;
 
-    @NotNull
     @Column(name = "name")
     private String name;
 
-    @NotNull
     @Column(name = "last_name")
     private String lastName;
 
