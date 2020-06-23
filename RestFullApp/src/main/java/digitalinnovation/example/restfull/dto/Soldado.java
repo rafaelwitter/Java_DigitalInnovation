@@ -1,5 +1,7 @@
 package digitalinnovation.example.restfull.dto;
 
+import digitalinnovation.example.restfull.enums.Raca;
+
 public class Soldado {
     private Long id;
     private String cpf;
@@ -32,13 +34,7 @@ public class Soldado {
         this.nome = nome;
     }
 
-    public String getRaca() {
-        return raca;
-    }
 
-    public void setRaca(String raca) {
-        this.raca = raca;
-    }
 
     public String getArma() {
         return arma;
