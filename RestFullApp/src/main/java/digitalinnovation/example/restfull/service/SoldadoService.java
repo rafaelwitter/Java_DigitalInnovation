@@ -55,4 +55,11 @@ public class SoldadoService {
                 .collect(Collectors.toList());
         return new Resources<>(soldadoStream);
     }
+
+    public Soldado getSoldado(){
+        return new Soldado();
+    }
+
+    public void salvarSoldado(Soldado soldado){
+    }
 }
