@@ -3,7 +3,7 @@
 
 ### Introdução ao Node com Postgres e Sequeilize em 3 passos
 #### Passo 1
-- SQL -> Criar as tabela e adicionar eventos
+- [SQL](https://github.com/rafaelwitter/Java_DigitalInnovation/tree/master/NodeJS/sql) -> Criar as tabela e adicionar eventos
 #### Passo 2
 
 
