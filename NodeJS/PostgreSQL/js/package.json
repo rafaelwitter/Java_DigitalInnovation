@@ -1,0 +1,18 @@
+{
+  "name": "js",
+  "version": "1.0.0",
+  "description": "nodejs com pg",
+  "main": "1_drop.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rafaelwitter/Java_DigitalInnovation/tree/master/NodeJS/"
+  },
+  "author": "RafaelWitt",
+  "license": "ISC",
+  "dependencies": {
+    "pg": "^8.2.1"
+  }
+}
