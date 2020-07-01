@@ -1,0 +1,17 @@
+{
+  "name": "nome-jwt",
+  "version": "1.0.0",
+  "description": "Entendo funcionamento de aplicaçoes autenticadas com JWT",
+  "main": "index.js",
+  "scripts": {
+    "build": "babel src -d build",
+    "start": "nodemon --exec npx babel-node src",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^4.17.0",
+    "jsonwebtoken": "^8.5.1"
+  },
+  "author": "Rafael Witt",
+  "license": "ISC"
+}
