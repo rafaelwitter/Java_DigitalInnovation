@@ -1,0 +1,16 @@
+{
+  "name": "webnar",
+  "version": "1.0.0",
+  "description": "API para gerenciar os \"contatinhos\"",
+  "main": "server.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "NODE_ENV=development ./node_modules/.bin/ts-node ./server/server.ts"
+  },
+  "author": "Rafael Witt",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/body-parser": "^1.19.0",
+    "@types/mongoose": "^5.7.29"
+  }
+}
